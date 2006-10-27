@@ -1,0 +1,4 @@
+Revision history for Perl extension DBIx::Class::Schema::Loader::DBI::Oracle
+
+0.01  Fri Oct 27 23:54:24 2006
+	- original version
